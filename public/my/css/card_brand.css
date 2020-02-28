@@ -1,0 +1,51 @@
+ul.card_logos {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.card_visa, .card_mastercard, .card_amex, .card_discover, .card_diners, .card_jcb, .card_elo, .card_aura, .card_hiper {
+    display: inline-block;
+    width: 60px;
+    height: 38px;
+    overflow: hidden;
+    text-align: left;
+    text-indent: -999px;
+    background: url(/my/imgs/cards.png) 0 0 no-repeat;
+}
+
+.card_mastercard {
+    background-position: 0 -40px;
+}
+
+.card_amex {
+    background-position: 0 -80px;
+}
+
+.card_elo {
+    background-position: 0 -120px;
+}
+
+.card_aura {
+    background-position: 0 -160px;
+}
+
+.card_jcb {
+    background-position: 0 -200px;
+}
+
+.card_diners {
+    background-position: 0 -240px;
+}
+
+.card_discover {
+    background-position: 0 -280px;
+}
+
+.card_hiper {
+    background-position: 0 -320px;
+}
+
+.card_none {
+    background-position: 0 -360px;
+}

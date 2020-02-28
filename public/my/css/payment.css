@@ -1,0 +1,25 @@
+.ico_pay img{
+    opacity: 0.2;
+    border:0px;
+    box-shadow: 0;
+}
+.ico_pay h5{
+    color: #C0C0C0;
+    margin-top: 10px;
+}
+
+a.ico_pay:hover img{
+    opacity: 0.5;
+
+}
+
+.use img{
+    opacity: 1;
+    border: 2px;
+    /*box-shadow: 0 3px 4px rgba(0, 0, 0, 0.1);*/
+    box-shadow: 0 3px 4px rgba(232, 183, 91,0.3);
+    /*fill: rgba(232, 183, 91,1); !important;*/
+}
+.use h5{
+    color: #000;
+}

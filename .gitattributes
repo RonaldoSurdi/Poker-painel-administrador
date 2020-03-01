@@ -1,0 +1,6 @@
+* text=Laravel
+*.html linguist-vendored=Laravel
+*.htm linguist-vendored=Laravel
+*.css linguist-vendored=Laravel
+*.scss linguist-vendored=Laravel
+*.js linguist-vendored=Laravel

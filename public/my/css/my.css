@@ -1,0 +1,87 @@
+.img-center {
+    max-width: 100%;
+    max-height: 100px;
+    margin: 0;
+    margin-top:5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    vertical-align: middle;
+    /*import css*/
+    border-radius: 6px;
+}
+
+.hover-visible {
+    outline: 1px solid transparent;
+}
+.hover-visible .action {
+    visibility: hidden;
+}
+.hover-visible:hover .action {
+    visibility: visible;
+}
+
+.table td, .table th{
+    padding: 8px; !important;
+}
+
+.table {
+    font-size:14px; !important;
+}
+
+.search-box .app-search input {
+    padding: 17px; !important;
+}
+
+.form-group label {
+    color: #00a5bb; !important;
+}
+
+.input-group-btn .btn{
+    height: 100%; !important;
+    border-color: rgba(0, 0, 0, 0.15); !important;
+}
+
+.floating-labels .focused label{
+    color: #00a5bb; !important;
+}
+
+.jq-toast-single {/**Fonte dos toast que aparecem no topo**/
+    font-size:14px; !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow{
+    top:6px;
+}
+
+.select2-container .select2-selection--single{
+    padding: 6px; !important;
+    height: 38px;
+}
+
+.tab-pane{
+    background-color: #ffffff; !important;
+}
+
+select {
+    width: 100%; !important;
+}
+
+.select2 {
+    width: 100%; !important;
+}
+
+.shadow{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.p5{
+    padding: 5px;!important;
+}
+.p8{
+    padding: 8px;!important;
+}
+.m5{
+    margin: 5px;!important;
+}

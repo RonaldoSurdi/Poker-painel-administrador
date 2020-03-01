@@ -1,6 +1,6 @@
 #rodar os comandos:
 
-- git clone git@bitbucket.org:danielcarus/laravel_5.5_pronto.git
+- git clone https://github.com/RonaldoSurdi/pokerclubs-admin.git
 - composer install
 - php artisan key:generate
 
@@ -19,7 +19,7 @@ Projeto em Laravel 5.5 [Laravel documentation](http://laravel.com/docs/contribut
 ## Comandos
 - Criar o model, migrate e controller: <b> php artisan make:model Product -m -cr </b>
     <br>com esse comando ja cria o pacote completo de um objeto, colocar o nome no singular
-- só o Controller: php artisan make:controller PessoasController --resource
+- sï¿½ o Controller: php artisan make:controller PessoasController --resource
 - rodar um seed especifico: php artisan db:seed --class=UsersTableSeeder
 
 

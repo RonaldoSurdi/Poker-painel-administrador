@@ -1,6 +1,5 @@
-#rodar os comandos:
+#Painel administração geral
 
-- git clone https://github.com/RonaldoSurdi/pokerclubs-admin.git
 - composer install
 - php artisan key:generate
 
